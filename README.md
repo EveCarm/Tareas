@@ -3,7 +3,7 @@ Nombre: Everardo
 UEA: Producción y Comunicación en la Cultura Comunicativa
 Licenciatura: Arte y Comunicación Digitales
 
-Objetivo del repositorio
+##Objetivo del repositorio
 
 La idea de este repositorio es tener reunido en un solo espacio todo lo que voy haciendo durante la UEA: tareas, ejercicios, prácticas y cualquier cosa que vaya produciendo. Más que sólo guardar archivos, lo quiero como un lugar donde pueda revisar mis avances y ver cómo va cambiando mi trabajo conforme pasa el trimestre. Me sirve para tener mis cosas ordenadas, pero también para pensar un poco sobre mis procesos, mis ideas y la forma en que los contenidos de la UEA se van conectando entre sí.
 
@@ -11,7 +11,7 @@ Otro punto importante es que me quiero acostumbrar a usar GitHub, porque aunque 
 
 En pocas palabras, este repositorio existe para guardar mis trabajos, dejar registro de lo que voy aprendiendo y desarrollar habilidades digitales que me sirven tanto en esta UEA como en futuros proyectos de la carrera.
 
-Organización del repositorio
+##Organización del repositorio
 
 Organicé el repositorio de una manera que fuera fácil de seguir tanto para mí como para quien lo llegue a revisar. Cada tarea está en su carpeta o archivo correspondiente, dependiendo de lo que necesite cada actividad. Intento que los nombres de los archivos sean lo más claros posible para que no haya confusiones y pueda encontrar rápido lo que busco. Este orden me ayuda a no tener todo revuelto y a mantenerlo visualmente limpio.
 
@@ -19,7 +19,7 @@ Cuando necesito agregar material extra como imágenes, capturas, apuntes o archi
 
 En general, la estructura del repositorio está pensada para que cualquier persona pueda entender cómo está organizado sin perderse. Mi objetivo es que sea práctico, claro y funcional, no sólo como almacenamiento, sino como una herramienta que me ayude a aprender mejor.
 
-Experiencia personal al crear y manejar este repositorio
+##Experiencia personal al crear y manejar este repositorio
 
 Crear y manejar este repositorio ha sido una experiencia bastante buena, sobre todo porque al principio GitHub sí me imponía. Pensaba que era sólo para programadores, pero al usarlo me di cuenta de que sirve muchísimo para organizar cualquier proyecto, ya sea académico, creativo o digital. Aprender a hacer commits, explicar mis cambios y mantener mis archivos al día me ayudó a entender mejor cómo funciona el control de versiones.
 
