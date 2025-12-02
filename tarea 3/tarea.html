@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Datos Supabase Tarea Hernani</title>
+
+  <script type="module">
+    import { createClient } from "https://esm.sh/@supabase/supabase-js";
+
+    const supabase = createClient(
+      "https://kddwnzcufsydtxujarfi.supabase.co",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtkZHduemN1ZnN5ZHR4dWphcmZpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQ2NDY3MTEsImV4cCI6MjA4MDIyMjcxMX0.WfXJFihol26IdSOijYkW2_zV36dSl_YhDYwdDrzSW6g");
+
+    async function leerDatos() {
+      const { data } = await supabase.from("tablatarea").select("*");
+      document.getElementById("lista").innerHTML =
+        data.map(f => `ID: ${f.id} - Número: ${f.numero} - Texto: ${f.texto}`).join("<br>");
+    }
+
+    leerDatos();
+  </script>
+</head>
+
+<body>
+  <h1>Datos Tabla</h1>
+  <div id="lista"></div>
+</body>
+</html>
